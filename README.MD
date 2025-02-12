@@ -11,3 +11,8 @@ content from main
 - first line of code
 - second line of code
 - end of the code
+
+### example
+- developer is started
+- developer writing the code
+- developer is done with the code
